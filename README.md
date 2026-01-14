@@ -1,6 +1,6 @@
 # Executive Report
 
-# Dataset Scope: 163,065 Medicare Records | 3,337 Hospitals | 6,975,318 Total Discharges
+## Dataset Scope: 163,065 Medicare Records | 3,337 Hospitals | 6,975,318 Total Discharges
 ________________________________________
 # Executive Summary
 
