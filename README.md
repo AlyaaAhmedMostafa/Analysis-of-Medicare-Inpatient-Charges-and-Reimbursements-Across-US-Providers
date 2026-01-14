@@ -32,9 +32,9 @@ The 3.72x national markup ratio indicates substantial systemic inefficiency. Whi
 ________________________________________
 ## Volume Analysis: Clinical Patterns
 
-## High-Volume Procedures
+** High-Volume Procedures
 
-## Major Joint Replacement (DRG 470) dominates inpatient volume with 427,207 discharges, representing 6.1% of all cases analyzed. This reflects:
+** Major Joint Replacement (DRG 470) dominates inpatient volume with 427,207 discharges, representing 6.1% of all cases analyzed. This reflects:
 
 •	Aging population demographics driving orthopedic demand
 
@@ -42,7 +42,7 @@ ________________________________________
 
 •	Standardization of hip and knee replacement protocols
 
-## Septicemia Cases (DRG 871) rank as the second most common diagnosis, indicating:
+** Septicemia Cases (DRG 871) rank as the second most common diagnosis, indicating:
 
 •	Growing burden of infectious disease complications
 
@@ -66,9 +66,9 @@ DRG 870, covering Septicemia with Ventilator support for 96+ hours, shows the hi
 
 ## Analysis of High-Variance Cases
 
-## Critical Care Markup Concerns:
+** Critical Care Markup Concerns:
 
-Septicemia cases requiring extended ventilator support demonstrate the largest financial gap at nearly $119,000 per case. This variance raises several concerns:
+** Septicemia cases requiring extended ventilator support demonstrate the largest financial gap at nearly $119,000 per case. This variance raises several concerns:
 
 •	ICU Cost Structure: Extended ventilator cases involve genuine high costs (staffing, equipment, pharmaceuticals), but the 5.2x markup suggests charge master rates far exceed actual resource consumption
 
@@ -76,7 +76,7 @@ Septicemia cases requiring extended ventilator support demonstrate the largest f
 
 •	Outcomes Correlation: High-variance DRGs often involve the sickest patients with poorest outcomes, creating ethical concerns about profit incentives in end-of-life care
 
-## Cardiovascular Procedure Patterns:
+** Cardiovascular Procedure Patterns:
 
 Percutaneous cardiovascular procedures (stent placements, catheterizations) consistently show 4.6-4.8x markups, indicating:
 
@@ -126,15 +126,15 @@ New York's 33.79% Medicare coverage rate (lowest among major states) combined wi
 ________________________________________
 ## Provider-Level Outliers
 
-## Extreme Pricing Variance Institutions
+** Extreme Pricing Variance Institutions
 
 Stanford Hospital reports average charges of $145,410 against $38,640 payments, yielding a $106,770 price variance, focused on Complex Respiratory cases with 96+ hour ventilation. UVA Health Sciences averages $50,360 charges and $9,340 payments for a $41,020 variance in General Acute Care. Vail Valley Medical sees $47,370 charges versus $5,910 payments, resulting in a $41,460 variance centered on Orthopedic and Trauma DRGs.
 
-## Stanford Hospital Case Study
+** Stanford Hospital Case Study
 
 Stanford's extraordinary pricing variance of $106,770 for high-intensity respiratory cases warrants detailed examination:
 
-## Possible Explanations:
+** Possible Explanations:
 
 •	Academic Medical Center Premium: Teaching hospitals treating complex cases may have legitimately higher costs
 
@@ -144,7 +144,7 @@ Stanford's extraordinary pricing variance of $106,770 for high-intensity respira
 
 •	Geographic Market Power: Limited competition in service area enables pricing power
 
-## Concern Areas:
+** Concern Areas:
 
 •	3.76x markup on already-expensive critical care creates affordability barriers for uninsured/underinsured patients
 
@@ -154,9 +154,9 @@ Stanford's extraordinary pricing variance of $106,770 for high-intensity respira
 ________________________________________
 ## Strategic Recommendations
 
-## For Healthcare Policymakers
+** For Healthcare Policymakers
 
-## 1. Expand All-Payer Rate Regulation
+** 1. Expand All-Payer Rate Regulation
 
 Maryland's success demonstrates regulated pricing reduces variance without compromising access or quality. Consider:
 
@@ -166,7 +166,7 @@ Maryland's success demonstrates regulated pricing reduces variance without compr
 
 •	Annual review of geographic payment adjusters to ensure accuracy
 
-## 2. Price Transparency Enforcement
+** 2. Price Transparency Enforcement
 
 The 3.72x national markup underscores need for aggressive implementation of hospital price transparency rules:
 
@@ -176,7 +176,7 @@ The 3.72x national markup underscores need for aggressive implementation of hosp
 
 •	Create consumer-friendly interfaces showing out-of-pocket estimates
 
-## 3. High-Variance DRG Investigation
+** 3. High-Variance DRG Investigation
 
 DRGs with $100K+ price variances (870, 207) require immediate review:
 
@@ -188,7 +188,7 @@ DRGs with $100K+ price variances (870, 207) require immediate review:
 
 ## For Hospital Administrators
 
-## 1. Charge Master Rationalization
+** 1. Charge Master Rationalization
 
 Hospitals maintaining 3.5-5x markups face reputational and regulatory risk:
 
@@ -198,7 +198,7 @@ Hospitals maintaining 3.5-5x markups face reputational and regulatory risk:
 
 •	Prepare for inevitable regulatory pressure toward price controls
 
-## 2. Volume Strategy Reassessment
+** 2. Volume Strategy Reassessment
 
 High-volume, high-margin procedures (joint replacements, cardiovascular) drive financial performance but face sustainability risks:
 
@@ -208,7 +208,7 @@ High-volume, high-margin procedures (joint replacements, cardiovascular) drive f
 
 •	Develop bundled payment expertise for major procedures
 
-## 3. Geographic Market Analysis
+** 3. Geographic Market Analysis
 
 Providers in high-variance states (NY, CA) should anticipate regulatory intervention:
 
@@ -220,7 +220,7 @@ Providers in high-variance states (NY, CA) should anticipate regulatory interven
 
 ## For Commercial Payers
 
-## 1. Reference-Based Pricing
+** 1. Reference-Based Pricing
 
 The Medicare payment data provides clear benchmarks for contract negotiations:
 
@@ -230,7 +230,7 @@ The Medicare payment data provides clear benchmarks for contract negotiations:
 
 •	Require hospitals to justify prices exceeding Medicare by more than 50%
 
-## 2. Center of Excellence Programs
+** 2. Center of Excellence Programs
 
 Volume data enables identification of high-quality, efficient providers:
 
