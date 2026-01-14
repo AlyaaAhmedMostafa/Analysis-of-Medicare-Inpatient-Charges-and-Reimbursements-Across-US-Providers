@@ -19,23 +19,6 @@ SELECT
         END) AS Missing_Payments
 FROM [Healthcare].[dbo].[inpatientCharges];
 
---Identify DRGs with highest inpatient volume
-SELECT
-    DRG_Definition,
-    SUM(Total_Discharges) AS Total_Discharges
-FROM [Healthcare].[dbo].[inpatientCharges]
-GROUP BY DRG_Definition
-ORDER BY Total_Discharges DESC;
-
---Identify hospitals with highest discharge volume
-SELECT
-    Provider_Name,
-    Provider_State,
-    SUM(Total_Discharges) AS Total_Discharges
-FROM [Healthcare].[dbo].[inpatientCharges]
-GROUP BY Provider_Name, Provider_State
-ORDER BY Total_Discharges DESC;
-
 --Compare billed charges to actual payments by DRG
 SELECT 
     DRG_Definition,
@@ -190,4 +173,5 @@ SELECT
     SUM(Total_Discharges) AS Total_Discharges,
     AVG(Avg_Total_Payments) AS Avg_Payment_Per_Case
 FROM dbo.InpatientCharges_Analytic;
+
 
